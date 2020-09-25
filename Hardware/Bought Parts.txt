@@ -1,0 +1,6 @@
+2 4040 aluminum extrusion
+2 2040 aluminum extrusion
+2 2040 aluminum extrusion
+1 2020 aluminum extrusion
+1 2020 aluminum extrusion
+10 24mm wheels
